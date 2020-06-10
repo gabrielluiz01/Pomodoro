@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9d67525.chunk.css",
-    "main.js": "/static/js/main.832e8c69.chunk.js",
-    "main.js.map": "/static/js/main.832e8c69.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ed81af2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ed81af2.js.map",
-    "static/js/2.f68fcf6b.chunk.js": "/static/js/2.f68fcf6b.chunk.js",
-    "static/js/2.f68fcf6b.chunk.js.map": "/static/js/2.f68fcf6b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2169642ed9a9409b0c422d940b45e58f.js": "/precache-manifest.2169642ed9a9409b0c422d940b45e58f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b9d67525.chunk.css.map": "/static/css/main.b9d67525.chunk.css.map",
-    "static/js/2.f68fcf6b.chunk.js.LICENSE.txt": "/static/js/2.f68fcf6b.chunk.js.LICENSE.txt"
+    "main.css": "/Pomodoro/static/css/main.b9d67525.chunk.css",
+    "main.js": "/Pomodoro/static/js/main.832e8c69.chunk.js",
+    "main.js.map": "/Pomodoro/static/js/main.832e8c69.chunk.js.map",
+    "runtime-main.js": "/Pomodoro/static/js/runtime-main.a372a8f2.js",
+    "runtime-main.js.map": "/Pomodoro/static/js/runtime-main.a372a8f2.js.map",
+    "static/js/2.f68fcf6b.chunk.js": "/Pomodoro/static/js/2.f68fcf6b.chunk.js",
+    "static/js/2.f68fcf6b.chunk.js.map": "/Pomodoro/static/js/2.f68fcf6b.chunk.js.map",
+    "index.html": "/Pomodoro/index.html",
+    "precache-manifest.45552be87cf70e1148bd78f16165097e.js": "/Pomodoro/precache-manifest.45552be87cf70e1148bd78f16165097e.js",
+    "service-worker.js": "/Pomodoro/service-worker.js",
+    "static/css/main.b9d67525.chunk.css.map": "/Pomodoro/static/css/main.b9d67525.chunk.css.map",
+    "static/js/2.f68fcf6b.chunk.js.LICENSE.txt": "/Pomodoro/static/js/2.f68fcf6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ed81af2.js",
+    "static/js/runtime-main.a372a8f2.js",
     "static/js/2.f68fcf6b.chunk.js",
     "static/css/main.b9d67525.chunk.css",
     "static/js/main.832e8c69.chunk.js"
