@@ -37,9 +37,6 @@ class App extends Component {
     } else {
       clearInterval(this.state.count);
       this.state.textButton = 'PLAY'
-      this.setState({
-        count: null
-      })
     }
   }
 
