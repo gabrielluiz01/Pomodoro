@@ -49,17 +49,10 @@ class App extends Component {
       this.setState({
         timer: 1500,
         textButton: 'PLAY',
-        count: null
+        count: null,
+        timeEnd: false,
       })
 		}
-  }
-
-  resetTimer = () => {
-    this.setState({
-      timer: 1500,
-      timeEnd: false,
-      count: null,
-    })
   }
 
   render() {
@@ -76,7 +69,6 @@ class App extends Component {
           <span className="box-buttons">
             <button onClick={this.playTimer} className="button">{this.state.textButton}</button>
             <button onClick={this.stopTimer} className="button">STOP</button>
-            <button onClick={this.resetTimer} className="button">RESET</button>
           </span>
           </div>
         </div>
