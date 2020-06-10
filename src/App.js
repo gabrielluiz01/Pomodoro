@@ -9,6 +9,7 @@ class App extends Component {
     timeEnd: false,
   }
 
+
   playTimer = () => { 
     if(this.state.count == null){
 			this.state.count = setInterval(() => {
@@ -34,10 +35,13 @@ class App extends Component {
       })
       
     } else {
-			clearInterval(this.state.count);
-			this.state.textButton = 'PLAY'
+      clearInterval(this.state.count);
+      this.state.textButton = 'PLAY'
+      this.setState({
+        count: null
+      })
     }
-	}
+  }
 
   stopTimer = () => {
     if(this.state.count !== null){
